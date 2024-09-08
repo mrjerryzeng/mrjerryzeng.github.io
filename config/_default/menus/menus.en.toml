@@ -1,6 +1,6 @@
 [[main]]
   name = "Post"
-  pageRef = "/Post/"
+  pageRef = "/post/"
   weight = 10
 
 [[social]]
