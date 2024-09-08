@@ -6488,6 +6488,99 @@ function initIndex() {
   
   
   
+  index.add(
+    
+      
+      {
+        id: 0,
+        tag: "en",
+        href: "/archives.fr/",
+        title: "Archive",
+        description: "archives",
+        
+        
+        content: ""
+      })
+      .add(
+      
+      
+      {
+        id: 1,
+        tag: "en",
+        href: "/archives/",
+        title: "Archive",
+        description: "archives",
+        
+        
+        content: ""
+      })
+      .add(
+      
+      
+      {
+        id: 2,
+        tag: "en",
+        href: "/posts/markdown-syntax/",
+        title: "Markdown Syntax Guide",
+        description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements.",
+        
+        
+        content: "This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.\nHeadings \u0026nbsp; The following HTML \u0026lt;h1\u0026gt;—\u0026lt;h6\u0026gt; elements represent six levels of section headings. \u0026lt;h1\u0026gt; is the highest section level while \u0026lt;h6\u0026gt; is the lowest.\nH1 \u0026nbsp; H2 \u0026nbsp; H3 \u0026nbsp; H4 \u0026nbsp; H5 \u0026nbsp; H6 \u0026nbsp; Paragraph \u0026nbsp; Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.\nItatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.\nBlockquotes \u0026nbsp; The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a footer or cite element, and optionally with in-line changes such as annotations and abbreviations.\nBlockquote without attribution \u0026nbsp; Tiam, ad mint andaepu dandae nostion secatur sequo quae. Note that you can use Markdown syntax within a blockquote.\nBlockquote with attribution \u0026nbsp; Don\u0026rsquo;t communicate by sharing memory, share memory by communicating.\n— Rob Pike1\nTables \u0026nbsp; Tables aren\u0026rsquo;t part of the core Markdown spec, but Hugo supports them out-of-the-box.\nName Age Bob 27 Alice 23 Inline Markdown within tables \u0026nbsp; Italics Bold Code italics bold code List Types \u0026nbsp; Ordered List \u0026nbsp; First item Second item Third item Unordered List \u0026nbsp; List item Another item And another item Nested Unordered list \u0026nbsp; Fruit Apple Orange Banana Dairy Milk Cheese Nested Ordered list \u0026nbsp; Fruit Apple Orange Banana Dairy Milk Cheese Third item Sub One Sub Two Other Elements — abbr, sub, sup, kbd, mark \u0026nbsp; GIF is a bitmap image format.\nH2O\nXn + Yn = Zn\nPress CTRL+ALT+Delete to end the session.\nMost salamanders are nocturnal, and hunt for insects, worms, and other small creatures.\nThe above quote is excerpted from Rob Pike\u0026rsquo;s talk during Gopherfest, November 18, 2015.\u0026#160;\u0026#x21a9;\u0026#xfe0e;"
+      })
+      .add(
+      
+      
+      {
+        id: 3,
+        tag: "en",
+        href: "/posts/markdown-syntax.fr/",
+        title: "Markdown Syntax Guide For L2",
+        description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements.",
+        
+        
+        content: "This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.\nHeadings \u0026nbsp; The following HTML \u0026lt;h1\u0026gt;—\u0026lt;h6\u0026gt; elements represent six levels of section headings. \u0026lt;h1\u0026gt; is the highest section level while \u0026lt;h6\u0026gt; is the lowest.\nH1 \u0026nbsp; H2 \u0026nbsp; H3 \u0026nbsp; H4 \u0026nbsp; H5 \u0026nbsp; H6 \u0026nbsp; Paragraph \u0026nbsp; Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.\nItatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.\nBlockquotes \u0026nbsp; The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a footer or cite element, and optionally with in-line changes such as annotations and abbreviations.\nBlockquote without attribution \u0026nbsp; Tiam, ad mint andaepu dandae nostion secatur sequo quae. Note that you can use Markdown syntax within a blockquote.\nBlockquote with attribution \u0026nbsp; Don\u0026rsquo;t communicate by sharing memory, share memory by communicating.\n— Rob Pike1\nTables \u0026nbsp; Tables aren\u0026rsquo;t part of the core Markdown spec, but Hugo supports them out-of-the-box.\nName Age Bob 27 Alice 23 Inline Markdown within tables \u0026nbsp; Italics Bold Code italics bold code Code Blocks \u0026nbsp; Inline Code \u0026nbsp; This is Inline Code\nOnly pre \u0026nbsp; Code block with backticks \u0026nbsp; \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html lang=\u0026#34;en\u0026#34;\u0026gt; \u0026lt;head\u0026gt; \u0026lt;meta charset=\u0026#34;utf-8\u0026#34; /\u0026gt; \u0026lt;title\u0026gt;Example HTML5 Document\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p\u0026gt;Test\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt; Code block with backticks and language specified \u0026nbsp; 1 2 3 4 5 6 7 8 9 10 11 \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html lang=\u0026#34;en\u0026#34;\u0026gt; \u0026lt;head\u0026gt; \u0026lt;meta charset=\u0026#34;utf-8\u0026#34; /\u0026gt; \u0026lt;title\u0026gt;Example HTML5 Document\u0026lt;/title\u0026gt; \u0026lt;meta name=\u0026#34;description\u0026#34; content=\u0026#34;Sample article showcasing basic Markdown syntax and formatting for HTML elements.\u0026#34;\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p\u0026gt;Test\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt; Code block indented with four spaces \u0026nbsp; \u0026lt;!doctype html\u0026gt; \u0026lt;html lang=\u0026quot;en\u0026quot;\u0026gt; \u0026lt;head\u0026gt; \u0026lt;meta charset=\u0026quot;utf-8\u0026quot;\u0026gt; \u0026lt;title\u0026gt;Example HTML5 Document\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p\u0026gt;Test\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt; Code block with Hugo\u0026rsquo;s internal highlight shortcode \u0026nbsp; \u0026lt;!doctype html\u0026gt; \u0026lt;html lang=\u0026#34;en\u0026#34;\u0026gt; \u0026lt;head\u0026gt; \u0026lt;meta charset=\u0026#34;utf-8\u0026#34;\u0026gt; \u0026lt;title\u0026gt;Example HTML5 Document\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p\u0026gt;Test\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt; Gist \u0026nbsp; List Types \u0026nbsp; Ordered List \u0026nbsp; First item Second item Third item Unordered List \u0026nbsp; List item Another item And another item Nested list \u0026nbsp; Fruit Apple Orange Banana Dairy Milk Cheese Other Elements — abbr, sub, sup, kbd, mark \u0026nbsp; GIF is a bitmap image format.\nH2O\nXn + Yn = Zn\nPress CTRL+ALT+Delete to end the session.\nMost salamanders are nocturnal, and hunt for insects, worms, and other small creatures.\nThe above quote is excerpted from Rob Pike\u0026rsquo;s talk during Gopherfest, November 18, 2015.\u0026#160;\u0026#x21a9;\u0026#xfe0e;"
+      })
+      .add(
+      
+      
+      {
+        id: 4,
+        tag: "en",
+        href: "/posts/markdown-syntax.fa/",
+        title: "Markdown Syntax Guide For RTL",
+        description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements.",
+        
+        
+        content: "This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.\nHeadings \u0026nbsp; The following HTML \u0026lt;h1\u0026gt;—\u0026lt;h6\u0026gt; elements represent six levels of section headings. \u0026lt;h1\u0026gt; is the highest section level while \u0026lt;h6\u0026gt; is the lowest.\nH1 \u0026nbsp; H2 \u0026nbsp; H3 \u0026nbsp; H4 \u0026nbsp; H5 \u0026nbsp; H6 \u0026nbsp; Paragraph \u0026nbsp; Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.\nItatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.\nBlockquotes \u0026nbsp; The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a footer or cite element, and optionally with in-line changes such as annotations and abbreviations.\nBlockquote without attribution \u0026nbsp; Tiam, ad mint andaepu dandae nostion secatur sequo quae. Note that you can use Markdown syntax within a blockquote.\nBlockquote with attribution \u0026nbsp; Don\u0026rsquo;t communicate by sharing memory, share memory by communicating.\n— Rob Pike1\nTables \u0026nbsp; Tables aren\u0026rsquo;t part of the core Markdown spec, but Hugo supports them out-of-the-box.\nName Age Bob 27 Alice 23 Inline Markdown within tables \u0026nbsp; Italics Bold Code italics bold code Code Blocks \u0026nbsp; Inline Code \u0026nbsp; This is Inline Code\nOnly pre \u0026nbsp; Code block with backticks \u0026nbsp; \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html lang=\u0026#34;en\u0026#34;\u0026gt; \u0026lt;head\u0026gt; \u0026lt;meta charset=\u0026#34;utf-8\u0026#34; /\u0026gt; \u0026lt;title\u0026gt;Example HTML5 Document\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p\u0026gt;Test\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt; Code block with backticks and language specified \u0026nbsp; 1 2 3 4 5 6 7 8 9 10 11 \u0026lt;!DOCTYPE html\u0026gt; \u0026lt;html lang=\u0026#34;en\u0026#34;\u0026gt; \u0026lt;head\u0026gt; \u0026lt;meta charset=\u0026#34;utf-8\u0026#34; /\u0026gt; \u0026lt;title\u0026gt;Example HTML5 Document\u0026lt;/title\u0026gt; \u0026lt;meta name=\u0026#34;description\u0026#34; content=\u0026#34;Sample article showcasing basic Markdown syntax and formatting for HTML elements.\u0026#34;\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p\u0026gt;Test\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt; Code block indented with four spaces \u0026nbsp; \u0026lt;!doctype html\u0026gt; \u0026lt;html lang=\u0026quot;en\u0026quot;\u0026gt; \u0026lt;head\u0026gt; \u0026lt;meta charset=\u0026quot;utf-8\u0026quot;\u0026gt; \u0026lt;title\u0026gt;Example HTML5 Document\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p\u0026gt;Test\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt; Code block with Hugo\u0026rsquo;s internal highlight shortcode \u0026nbsp; \u0026lt;!doctype html\u0026gt; \u0026lt;html lang=\u0026#34;en\u0026#34;\u0026gt; \u0026lt;head\u0026gt; \u0026lt;meta charset=\u0026#34;utf-8\u0026#34;\u0026gt; \u0026lt;title\u0026gt;Example HTML5 Document\u0026lt;/title\u0026gt; \u0026lt;/head\u0026gt; \u0026lt;body\u0026gt; \u0026lt;p\u0026gt;Test\u0026lt;/p\u0026gt; \u0026lt;/body\u0026gt; \u0026lt;/html\u0026gt; Gist \u0026nbsp; List Types \u0026nbsp; Ordered List \u0026nbsp; First item Second item Third item Unordered List \u0026nbsp; List item Another item And another item Nested list \u0026nbsp; Fruit Apple Orange Banana Dairy Milk Cheese Other Elements — abbr, sub, sup, kbd, mark \u0026nbsp; GIF is a bitmap image format.\nH2O\nXn + Yn = Zn\nPress CTRL+ALT+Delete to end the session.\nMost salamanders are nocturnal, and hunt for insects, worms, and other small creatures.\nThe above quote is excerpted from Rob Pike\u0026rsquo;s talk during Gopherfest, November 18, 2015.\u0026#160;\u0026#x21a9;\u0026#xfe0e;"
+      })
+      .add(
+      
+      
+      {
+        id: 5,
+        tag: "en",
+        href: "/search/",
+        title: "Search",
+        description: "",
+        
+        
+        content: ""
+      })
+      .add(
+      
+      
+      {
+        id: 6,
+        tag: "en",
+        href: "/search.fr/",
+        title: "SearchL2",
+        description: "",
+        
+        
+        content: ""
+      })
+      ;
+  
 
   search.addEventListener('input', showResults, true);
 }
